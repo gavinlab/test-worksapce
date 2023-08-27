@@ -1,5 +1,11 @@
 # @gavinlab/pkg1
 
+## 1.1.2
+
+### Patch Changes
+
+- dc8e850: llalal
+
 ## 1.1.1
 
 ### Patch Changes
