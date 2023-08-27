@@ -1,5 +1,11 @@
 # @gavinlab/pkg2
 
+## 1.1.2
+
+### Patch Changes
+
+- changeaaa
+
 ## 1.1.1
 
 ### Patch Changes

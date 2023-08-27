@@ -1,5 +1,5 @@
 import {getTime} from "@gavinlab/pkg1";
 
 export function formatTime() {
-    return getTime().format("Y-m-d H:i:s")
+    return getTime().format("Y-m-d")
 }
