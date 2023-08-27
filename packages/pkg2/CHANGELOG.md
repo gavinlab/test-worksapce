@@ -1,5 +1,12 @@
 # @gavinlab/pkg2
 
+## 1.1.3
+
+### Patch Changes
+
+- Updated dependencies [dc8e850]
+  - @gavinlab/pkg1@1.1.2
+
 ## 1.1.2
 
 ### Patch Changes
